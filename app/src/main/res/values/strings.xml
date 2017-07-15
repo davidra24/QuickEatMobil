@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Quick-Eat</string>
+    <string name="title_activity_tab_content">TabContentActivity</string>
+</resources>
